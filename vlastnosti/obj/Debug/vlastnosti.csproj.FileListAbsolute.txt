@@ -1,0 +1,7 @@
+C:\Users\vagunda\source\repos\vlastnosti\vlastnosti\bin\Debug\vlastnosti.exe.config
+C:\Users\vagunda\source\repos\vlastnosti\vlastnosti\bin\Debug\vlastnosti.exe
+C:\Users\vagunda\source\repos\vlastnosti\vlastnosti\bin\Debug\vlastnosti.pdb
+C:\Users\vagunda\source\repos\vlastnosti\vlastnosti\obj\Debug\vlastnosti.csprojAssemblyReference.cache
+C:\Users\vagunda\source\repos\vlastnosti\vlastnosti\obj\Debug\vlastnosti.csproj.CoreCompileInputs.cache
+C:\Users\vagunda\source\repos\vlastnosti\vlastnosti\obj\Debug\vlastnosti.exe
+C:\Users\vagunda\source\repos\vlastnosti\vlastnosti\obj\Debug\vlastnosti.pdb
